@@ -1,0 +1,15 @@
+E:\C#\MaxGenerics\MaxGenerics\bin\Debug\net6.0\MaxGenerics.exe
+E:\C#\MaxGenerics\MaxGenerics\bin\Debug\net6.0\MaxGenerics.deps.json
+E:\C#\MaxGenerics\MaxGenerics\bin\Debug\net6.0\MaxGenerics.runtimeconfig.json
+E:\C#\MaxGenerics\MaxGenerics\bin\Debug\net6.0\MaxGenerics.dll
+E:\C#\MaxGenerics\MaxGenerics\bin\Debug\net6.0\MaxGenerics.pdb
+E:\C#\MaxGenerics\MaxGenerics\obj\Debug\net6.0\MaxGenerics.csproj.AssemblyReference.cache
+E:\C#\MaxGenerics\MaxGenerics\obj\Debug\net6.0\MaxGenerics.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\MaxGenerics\MaxGenerics\obj\Debug\net6.0\MaxGenerics.AssemblyInfoInputs.cache
+E:\C#\MaxGenerics\MaxGenerics\obj\Debug\net6.0\MaxGenerics.AssemblyInfo.cs
+E:\C#\MaxGenerics\MaxGenerics\obj\Debug\net6.0\MaxGenerics.csproj.CoreCompileInputs.cache
+E:\C#\MaxGenerics\MaxGenerics\obj\Debug\net6.0\MaxGenerics.dll
+E:\C#\MaxGenerics\MaxGenerics\obj\Debug\net6.0\refint\MaxGenerics.dll
+E:\C#\MaxGenerics\MaxGenerics\obj\Debug\net6.0\MaxGenerics.pdb
+E:\C#\MaxGenerics\MaxGenerics\obj\Debug\net6.0\MaxGenerics.genruntimeconfig.cache
+E:\C#\MaxGenerics\MaxGenerics\obj\Debug\net6.0\ref\MaxGenerics.dll
